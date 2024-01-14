@@ -1,0 +1,2 @@
+# Climate-Informed-Development-Investigating-the-Impact-of-Climate-Change-on-Poverty
+Assignment for ECON 676: Examines climate change and poverty in 16 nations using Stata 17 BE. Utilizes SEM and OLS regression, finding a significant correlation between CO2 emissions and poverty, with varied impacts from precipitation and agriculture. Calls for further research on environmental factors in developing economies.
